@@ -84,7 +84,7 @@ A continuación, la estructura base de navegación:
 
 ---
 
-## 🧾 Estructura del Repositorio
+## Estructura del Repositorio
 
 ClinicaDentalApp-Mobile/
 │
